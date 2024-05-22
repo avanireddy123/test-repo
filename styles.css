@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: blanchedalmond;
+    background-image: url(https://images.yourstory.com/production/document_image/mystoryimage/pmuxvex8-bigstock--133664666-[Converted].jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces);
+}
+
+.container{
+    background-color: #9e96e6;
+    display: grid;
+    gap: 20px;
+    width: 500px;
+    max-width: calc(100vw - 40px);
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
+#text{
+    display: ruby-base;
+    height: 400px;
+    border-radius: .5rem;
+    font-size: 1.5rem;
+    border: none;
+    resize: none;
+    padding: 8px 10px;
+    outline: 2px solid rgba(49, 8, 151, 0.623);
+}
+
+button{
+    padding: 10px;
+    background: #010b0d;
+    color: #efe3eb;
+    border-radius: .5rem;
+    cursor: pointer;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
