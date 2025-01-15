@@ -1,0 +1,1 @@
+'ve worked on this project for an internship in my college. I chose the topic of child disabilities to work on my project. Though there are lots of text to speech conversion tools online mine is certainly unique compared to others as my project has the most colourful yet interesting Ul that attracts the children with DYSLEXIA or ADHD.
